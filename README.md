@@ -1,4 +1,4 @@
-# HIMATIF UNIMAL Website
+# FT UNIMAL Website
 
 ## Installation
 
